@@ -1,0 +1,23 @@
+{
+  "name": "somorodev-website",
+  "version": "1.0.0",
+  "description": "yuh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Somoro/SomoroDev-Website.git"
+  },
+  "author": "collinw7",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Somoro/SomoroDev-Website/issues"
+  },
+  "homepage": "https://github.com/Somoro/SomoroDev-Website#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "tailwindcss": "^3.2.4"
+  }
+}
